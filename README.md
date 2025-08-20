@@ -4,13 +4,13 @@ A beautiful, modern personal portfolio website built with Django showcasing Zhan
 
 ## Features
 
-- ? Modern, responsive design with gradient backgrounds
-- ? Mobile-friendly layout
-- ? Smooth animations and hover effects
-- ? Education section with GPA highlights
-- ? Professional experience showcase
-- ?? Technical skills display
-- ? Contact information with clickable phone and email
+- Modern, responsive design with gradient backgrounds
+- Mobile-friendly layout
+- Smooth animations and hover effects
+- Education section with GPA highlights
+- Professional experience showcase
+- Technical skills display
+- Contact information with clickable phone and email
 
 ## Technology Stack
 
@@ -24,23 +24,23 @@ A beautiful, modern personal portfolio website built with Django showcasing Zhan
 
 ```
 MyWebPage/
-©À©¤©¤ personal_website/          # Django project settings
-©¦   ©À©¤©¤ __init__.py
-©¦   ©À©¤©¤ settings.py
-©¦   ©À©¤©¤ urls.py
-©¦   ©À©¤©¤ wsgi.py
-©¦   ©¸©¤©¤ asgi.py
-©À©¤©¤ portfolio/                 # Portfolio app
-©¦   ©À©¤©¤ __init__.py
-©¦   ©À©¤©¤ apps.py
-©¦   ©À©¤©¤ urls.py
-©¦   ©¸©¤©¤ views.py
-©À©¤©¤ templates/                 # HTML templates
-©¦   ©¸©¤©¤ portfolio/
-©¦       ©¸©¤©¤ home.html
-©À©¤©¤ manage.py                  # Django management script
-©À©¤©¤ requirements.txt           # Python dependencies
-©¸©¤©¤ README.md                 # This file
+??? personal_website/          # Django project settings
+?   ??? __init__.py
+?   ??? settings.py
+?   ??? urls.py
+?   ??? wsgi.py
+?   ??? asgi.py
+??? portfolio/                 # Portfolio app
+?   ??? __init__.py
+?   ??? apps.py
+?   ??? urls.py
+?   ??? views.py
+??? templates/                 # HTML templates
+?   ??? portfolio/
+?       ??? home.html
+??? manage.py                  # Django management script
+??? requirements.txt           # Python dependencies
+??? README.md                 # This file
 ```
 
 ## Installation & Setup
@@ -154,12 +154,6 @@ For production deployment, consider:
 ## License
 
 This project is created for personal use. Feel free to modify and use as needed.
-
-## Contact
-
-For any questions or suggestions, please contact:
-- **Phone**: 13857103550
-- **Email**: 3200104883@zju.edu.cn
 
 ---
 
